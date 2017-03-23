@@ -1,0 +1,6 @@
+	<ul>
+	  <li><a href="/checkIn.php">Check In Book</a></li>
+	  <li><a href="/newUser.php">Create New User</a></li>
+	  <li><a href="/checkout.php">Check Out Book</a></li>
+	  <li><a href="#about">History</a></li>
+	</ul>
